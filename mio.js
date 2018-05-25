@@ -28,3 +28,4 @@ app.post("/api/v1/modem/create",(req,res)=>{
 app.listen(3000,()=>{
   console.log("server corriedo en el puerto 3000")
 });
+console.log("aqui termino todo");
